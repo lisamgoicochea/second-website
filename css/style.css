@@ -19,7 +19,7 @@ nav li {
 	float: left;
 	width: 33.33%;
 	text-align: center;
-	border: 2px solid red;
+	border: 2px;
 }
 
 nav a {
@@ -45,3 +45,20 @@ nav a:hover {
 padding: 140px 0px;
 
 } */
+
+/* h2 {
+	text-align:center;
+} */
+
+.main-content {
+background-color: #fff;
+padding: 20px;
+margin: 20px;
+text-align: center;
+}
+
+.img-50 {
+	width: 50%;
+	display: block;
+	margin: 10px auto;
+}
