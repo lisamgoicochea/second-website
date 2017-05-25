@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #cc8b86; /* #7d4f50 #d1be9c */
+}
+
+nav ul {
+	/*padding: 10px 20px 30px 40px;*/
+	overflow: auto;
+	background-color: #aa998f;
+	list-style: none; /* This takes the bullet points of lis in a ul. */
+}
+
+nav li {
+	float: left;
+	width: 33.33%;
+	text-align: center;
+	border: 2px solid red;
+}
+
+nav a {
+	color: #d1be9c;
+	font-size: 20px;
+	transition: .5s;
+}
+
+nav a:hover {
+	color: #7d4f50;
+}
+
+.header {
+	padding: 400px 0px;
+	background-image: url("../images/dreamhome.jpeg");
+	background-size: cover;
+	background position: center;
+	color: #aa998f;
+	text-align: center;
+}
+
+/* h1 {
+padding: 140px 0px;
+
+} */
