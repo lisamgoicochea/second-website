@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Kumar+One|Roboto:400,700');
 
 
@@ -85,4 +86,24 @@ margin: 20px;
 p {
 	text-align: center;
 	font-size: 22px;
+}
+
+.input-changes {
+	font-size: 20px;
+	width: 100%;
+	padding: 10px 20px;
+	margin: 10px 0;
+	box-sizing: border-box;
+	background-color: #AA998F;
+	border: 2px solid #7D4F50;
+	border-radius: 4px;
+}
+
+.col-1-4 {
+	float: left;
+	width: 23%;
+	background-color: #CC8B86;
+	padding: 10px;
+	height: 400px;
+	margin: 2%;
 }
